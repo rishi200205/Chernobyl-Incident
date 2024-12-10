@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #1e1e1e;
+  background-color: #A9A9A9;
   color: #ffffff;
   margin: 0;
   padding: 0;
@@ -18,9 +18,10 @@ p {
 
 canvas {
   display: block;
-  margin: 0 auto;
-  background: #111;
+  margin: 50px auto;
+  background: #ffffff;
   border: 1px solid #444;
+  padding:0px ;
 }
 
 button {
