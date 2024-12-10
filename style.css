@@ -20,7 +20,7 @@ canvas {
   display: block;
   margin: 50px auto;
   background: #ffffff;
-  padding:0px ;
+  padding:100px 50px 50px;
 }
 
 button {
